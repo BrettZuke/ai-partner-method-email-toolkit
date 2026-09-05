@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[AIPM-Complete-Setup](https://github.com/BrettZuke/AIPM-Complete-Setup)**, in `02-outreach/email-toolkit`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/AIPM-Complete-Setup.git
+```
+
+---
+
 # AI Partner Method — Email Copywriting Toolkit
 
 > Built and shipped by **Brett Zuke** for students inside the **AI Partner Method**.
